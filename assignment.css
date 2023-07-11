@@ -53,4 +53,36 @@ font-weight: 400;
 line-height: 30px;
 }
 
+.image {
 
+    width: 310px;
+    height: 350px;
+    display: flex;
+    margin: 150px 150px 150px 150px;
+        
+}
+
+.choto-image {
+
+    width: 1440px;
+    height: 320px;
+   display: flex;
+   margin: 150px 150px 150px 150px ;
+
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.instragram {
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 15px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.forpic {
+display: ;
+
+}
